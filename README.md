@@ -6,4 +6,4 @@
 官方网址：(https://music.xzlei.cn)<br/>
 第一个版本预计将在10月份发布，敬请期待！😊<br/>
 下面来让我们看一下这款音乐客户端的庐山真面目吧！<br/>
-![这是图片]([主页](https://music.xzlei.cn/img/pmjt-print.png) "Magic Gardens")
+![](https://music.xzlei.cn/img/pmjt-print.png "Magic Gardens")
