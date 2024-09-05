@@ -4,6 +4,6 @@
 <hr/>
 
 官方网址：(https://music.xzlei.cn)<br/>
-第一个版本预计将在10月份发布，敬请期待！😊<br/>
+windows公测版以发布，快点击右边的release链接下载吧！😊<br/>
 下面来让我们看一下这款音乐客户端的庐山真面目吧！<br/>
 ![](https://music.xzlei.cn/img/pmjt-print.png?t=123 "")
