@@ -4,6 +4,12 @@
 <hr/>
 
 官方网址：(https://music.xzlei.cn)<br/>
-windows公测版已经发布，快点击右边的release链接下载吧！😊<br/>
+windows,Linux公测版已经发布，快点击右边的release链接下载吧！😊<br/>
 下面来让我们看一下这款音乐客户端的庐山真面目吧！<br/>
 ![](https://music.xzlei.cn/img/pmjt-print.png?t=123 "")
+
+2024年9月7日，已支持国产Kylin操作系统
+![vmware exe_20240907_125847](https://github.com/user-attachments/assets/f226464b-8f42-44dc-ab3a-f1de5916d47d)
+
+![vmware exe_20240907_130217](https://github.com/user-attachments/assets/7f6537ae-2d12-4e1c-8f17-b3ba66c51c83)
+
